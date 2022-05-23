@@ -1,2 +1,4 @@
+s = "123"
 
-print("X" in "Xfneifneif")
+print(s[1:])
+
